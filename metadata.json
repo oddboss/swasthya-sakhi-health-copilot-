@@ -1,0 +1,6 @@
+{
+  "name": "Aura Health Copilot",
+  "description": "Next-generation Apple-Intelligence inspired AI Health Copilot with 3D glassmorphic voice orb, symptom triage, medicine scanner, and records.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
